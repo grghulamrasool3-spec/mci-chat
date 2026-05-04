@@ -1,0 +1,25 @@
+{
+  "name": "MCI - Master Creator Intelligence",
+  "short_name": "MCI",
+  "description": "AI-powered chat assistant by Master Innovative Community",
+  "start_url": "/mci-chat/index.html",
+  "scope": "/mci-chat/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
